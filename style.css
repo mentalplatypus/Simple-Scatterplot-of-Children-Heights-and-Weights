@@ -1,0 +1,21 @@
+h1 {
+  position:absolute;
+  left:100px;
+}
+
+.axis {
+  stroke:black;
+}
+
+.tickmarks {
+  stroke:black;
+}
+
+.axislabels {
+  
+}
+
+.data {
+  fill:red;
+  opacity:0.6;
+}
